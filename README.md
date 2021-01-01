@@ -63,4 +63,4 @@ assignment-3/main.cpp 会生成样例的聚类结果
 
 代码最终会生成 'kmeansX.csv' 文件，表示设置为X类，聚类的结果是多少，每一个分组的第一个点表示聚类中心
 
-最后通过 assignment-3/draw.py 画出散点图
+最后通过 assignment-3/draw.py 画出散点图，结果已截图
